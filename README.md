@@ -1,6 +1,6 @@
 Ateşman Readability Script
 ---
-Evaluates text readability score based on Ender Ateşman turkish readability formula:
+Evaluates text readability score based on Ender Ateşman turkish language readability formula:
 
 > Readability Score is calculated as 198.825-40.175×(total syllables/total
 words)-2.610×(total words/total sentences).
